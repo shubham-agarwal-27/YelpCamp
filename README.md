@@ -1,6 +1,6 @@
 # YelpCamp
 
-This was done as a part of a web developer Bootcsmp.
+This was done as a part of a web developer Bootcamp.
 This is the link to the web app: [YelpCamp](http://whispering-mountain-77937.herokuapp.com/)
 It is a full stack project where you can share information regarding any campground that you possess. You can add price tags, content and even comment on it!
 Read ahead, to get full details.
